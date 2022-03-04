@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/drawable/custom_border2.xml" value="0.35" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/font/trajan.xml" value="0.371875" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_build_addition.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_build_change_name.xml" value="0.3066123188405797" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_build_creation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_build_creation2.xml" value="0.3625" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_build_summary.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/activity_saved_builds.xml" value="0.33" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/bonus_list_elem.xml" value="0.5" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/build_addition_list_elem.xml" value="0.5" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/build_list_elem.xml" value="0.33" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/idea_group_empty.xml" value="0.5" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/layout.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/grzet/AndroidStudioProjects/EU4_IdeasBuilder/app/src/main/res/layout/saved_build_list_elem.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

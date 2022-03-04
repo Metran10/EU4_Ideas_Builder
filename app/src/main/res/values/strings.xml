@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EU4_IdeasBuilder</string>
+    <string name="title">Ideas Builder</string>
+    <string name="new_build">NEW BUILD</string>
+    <string name="load_build">LOAD BUILD</string>
+    <string name="current_builds">CURRENT BUILDS</string>
+    <string name="choose_group">Choose Next Idea Group</string>
+    <string name="check_bonuses">CHECK BONUSES</string>
+
+    <string-array name="menu_choices">
+        <item>Menu</item>
+        <item>Create New Build</item>
+        <item>Go to Current Build</item>
+        <item>Change Build Name</item>
+        <item>Add Group</item>
+        <item>Load Build</item>
+        <item>Save Current Build</item>
+
+
+    </string-array>
+
+</resources>
